@@ -19,6 +19,9 @@
 17. Screw in the headband.
 
 Bonus:
+If you want to change the look, or just keep dust away, you can cut of the foams and put it in the back of the chassis. It will affect the sound.
+
+Sound mods:
 - If you want to have more bass out of this headphone, put micropore tape over more of the open vents of the Top Cover.
 - If you want less bass, just cut out some of the micropore tape from the Top Cover.
 - If you want less energy in the 2kHz area, skip adding the dense foam to the Driver Holder.
