@@ -1,6 +1,7 @@
 ## Assembly instructions:
 
-(For the Fun Edition, skip step 5, 13, 14, 15 and instead of putting micropore tape over 3/4 of the baffle, put only half)
+(For the MF pads, skip step 5 and instead of putting micropore tape over 3/4 of the baffle, put only half)
+(For the AHG pads, put more micropore tape, so that only two pairs of vents are open)
 
 1. Solder wires into the 3.5mm sockets.
 ![Socket image](https://raw.githubusercontent.com/Maja5Dev/MayAudio-Sword/refs/heads/main/images/20260118_170826.jpg)
@@ -24,7 +25,7 @@
 (Optional step: put any kind of very non-dense soft foam on the back to protect from dust)
 ![Socket in Chassis](https://raw.githubusercontent.com/Maja5Dev/MayAudio-Sword/refs/heads/main/images/20260118_151559.jpg)
 
-7. Solder the driver to the 3.5mm socket.
+7. Solder the driver to the 3.5mm socket. (Optionally for more bass): solder a 47 Ohm resistor between the right terminal of the driver to the right wire. (right = red)
 
 8. Put the driver into the Driver Holder above the foam, make sure that the bass port goes into the driver magnet hole.
 
