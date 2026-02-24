@@ -41,7 +41,7 @@ Screw in the left and right holes with 12mm M3 screws.
 Screw in the top and bottom holes with 6mm M3 screws.
 ![Top cover](https://raw.githubusercontent.com/Maja5Dev/MayAudio-Sword/refs/heads/main/images/20260118_152223.jpg)
 
-13. Put the Top Cover over the black dense foam from the Dekoni Foam Attenuation Kit and cut it to the Top Cover's shape.
+13. Put the Top Cover over the **gray** foam from the Dekoni Foam Attenuation Kit and cut it to the Top Cover's shape.
   
 14. Cut a few milimeters off the edges of the foam to make it fit in easier.
 ![Foam](https://raw.githubusercontent.com/Maja5Dev/MayAudio-Sword/refs/heads/main/images/20260118_153817.jpg)
