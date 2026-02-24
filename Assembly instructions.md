@@ -21,7 +21,7 @@
 5. Cut the black dense foam (more see through one) from the Dekoni Foam Attenuation Kit to fit into the Driver Holder without obstructing the bass port (cut a hole).
 ![Back foam](https://raw.githubusercontent.com/Maja5Dev/MayAudio-Sword/refs/heads/main/images/20260118_150725.jpg)
   
-6. Put the 3.5mm socket into the chassis and screw it in using a 4mm M3 screw.
+6. Put the 3.5mm socket into the chassis and screw it in using a 6/8mm M3 screw.
 (Optional step: put any kind of very non-dense soft foam on the back to protect from dust)
 ![Socket in Chassis](https://raw.githubusercontent.com/Maja5Dev/MayAudio-Sword/refs/heads/main/images/20260118_151559.jpg)
 
