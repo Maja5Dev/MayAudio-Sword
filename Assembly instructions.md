@@ -24,7 +24,7 @@
 
 6. Solder the driver to the 3.5mm socket. (Optionally for more bass): solder a 47 Ohm resistor between the right terminal of the driver to the right wire. (right = red)
 
-7. Put the driver into the Driver Holder above the foam, and then put the bass port into the driver magnet hole from the back.
+7. Put the driver into the Driver Holder above the foam, and then put the bass tube into the driver magnet hole from the back.
 
 8. Put the Driver Holder with the driver into the Chassis.
 
