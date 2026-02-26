@@ -10,7 +10,12 @@
 ![Heat inserts 3](https://raw.githubusercontent.com/Maja5Dev/MayAudio-Sword/refs/heads/main/images/20260118_150639.jpg)
 
 3. Put micropore tape over the top cover like the image below: (you can adjust the amount to your preference)
+If using MF pads:
 ![Micropore tape](https://raw.githubusercontent.com/Maja5Dev/MayAudio-Sword/refs/heads/main/images/20260225_101856.jpg)
+If using AHG pads with a resistor:
+![Micropore tape](https://raw.githubusercontent.com/Maja5Dev/MayAudio-Sword/refs/heads/main/images/20260225_101806.jpg)
+If using Odyssey Edition:
+![Micropore tape](https://raw.githubusercontent.com/Maja5Dev/MayAudio-Sword/refs/heads/main/images/20260226_143325.jpg)
 
 5. Put micropore tape inside of the driver holder without obstructing the bass port.
 ![Back tape](https://raw.githubusercontent.com/Maja5Dev/MayAudio-Sword/refs/heads/main/images/20260118_150713.jpg)
@@ -35,7 +40,7 @@ Screw in the left and right holes with 12mm M3 screws.
 Screw in the top and bottom holes with 6mm M3 screws.
 ![Top cover](https://raw.githubusercontent.com/Maja5Dev/MayAudio-Sword/refs/heads/main/images/20260118_152223.jpg)
 
-13. Put the Top Cover over the **gray (if you use CG or AHG pads)** or **black dense (if you use MF pads)** foam from the Dekoni Foam Attenuation Kit and cut it to the Top Cover's shape.
+13. Put the Top Cover over the **gray (if you use CG or AHG pads or Odyssey Edition)** or **black dense (if you use MF pads)** foam from the Dekoni Foam Attenuation Kit and cut it to the Top Cover's shape.
   
 14. Cut a few milimeters off the edges of the foam to make it fit in easier.
 ![Foam](https://raw.githubusercontent.com/Maja5Dev/MayAudio-Sword/refs/heads/main/images/20260118_153817.jpg)
