@@ -1,8 +1,5 @@
 ## Assembly instructions:
 
-(For the MF pads, skip step 5 and instead of putting micropore tape over 3/4 of the baffle, put only half)
-(For the AHG pads, put more micropore tape, so that only two pairs of vents are open)
-
 1. Solder wires into the 3.5mm sockets.
 ![Socket image](https://raw.githubusercontent.com/Maja5Dev/MayAudio-Sword/refs/heads/main/images/20260118_170826.jpg)
 ![Socket image](https://raw.githubusercontent.com/Maja5Dev/MayAudio-Sword/refs/heads/main/images/20260118_170704.jpg)
