@@ -17,8 +17,11 @@ If using AHG pads with a resistor:
 If using Odyssey Edition:
 ![Micropore tape](https://raw.githubusercontent.com/Maja5Dev/MayAudio-Sword/refs/heads/main/images/20260226_143325.jpg)
 
-5. Put micropore tape inside of the driver holder without obstructing the bass port.
+5. (Not for Odyssey Edition) Put micropore tape inside of the driver holder without obstructing the bass port.
 ![Back tape](https://raw.githubusercontent.com/Maja5Dev/MayAudio-Sword/refs/heads/main/images/20260118_150713.jpg)
+
+For the Odyssey Edition, cut the black dense foam into a ring and put it inside of the driver holder below the driver.
+![Back foam](https://raw.githubusercontent.com/Maja5Dev/MayAudio-Sword/refs/heads/main/images/20260118_150725.jpg)
   
 6. Put the 3.5mm socket into the chassis and screw it in using a 6/8mm M3 screw.
 (Optional step: put any kind of very non-dense soft foam on the back to protect from dust)
